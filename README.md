@@ -8,7 +8,7 @@ Merge spiritual tradition with modern 3D visuals: interactive temples, glowing d
 ---
 
 ## 🔗 Live Demo
-**View the app:** [NavVarsh Utsav Website](https://ai.studio/apps/drive/1FT-YRTz5oZKb0oDkhChcZrgCh6vNFkyH)
+**View the app:** [NavVarsh Utsav Website]([https://aarambh-celebrating-hindu-new-year.vercel.app/])
 
 ---
 
